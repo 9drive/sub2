@@ -1,0 +1,3274 @@
+1
+00:00:41,884 --> 00:00:50,666
+<i>Tuhan yang bisa dipahami bukanlah Tuhan.</i>
+William Somerset Maugham
+
+2
+00:00:51,032 --> 00:00:51,132
+{\an1}A
+
+3
+00:00:51,132 --> 00:00:51,232
+{\an1}AL
+
+4
+00:00:51,232 --> 00:00:51,332
+{\an1}ALI
+
+5
+00:00:51,332 --> 00:00:51,432
+{\an1}ALIH
+
+6
+00:00:51,432 --> 00:00:51,532
+{\an1}ALIH B
+
+7
+00:00:51,532 --> 00:00:51,632
+{\an1}ALIH BA
+
+8
+00:00:51,632 --> 00:00:51,732
+{\an1}ALIH BAH
+
+9
+00:00:51,732 --> 00:00:51,832
+{\an1}ALIH BAHA
+
+10
+00:00:51,832 --> 00:00:51,932
+{\an1}ALIH BAHAS
+
+11
+00:00:51,932 --> 00:00:52,032
+{\an1}ALIH BAHASA
+
+12
+00:00:52,032 --> 00:00:52,132
+{\an1}ALIH BAHASA:
+
+13
+00:00:52,132 --> 00:00:52,232
+{\an1}ALIH BAHASA:
+S
+
+14
+00:00:52,232 --> 00:00:52,332
+{\an1}ALIH BAHASA:
+SA
+
+15
+00:00:52,332 --> 00:00:52,432
+{\an1}ALIH BAHASA:
+SAP
+
+16
+00:00:52,432 --> 00:00:52,532
+{\an1}ALIH BAHASA:
+SAPU
+
+17
+00:00:52,532 --> 00:00:52,632
+{\an1}ALIH BAHASA:
+SAPUT
+
+18
+00:00:52,632 --> 00:00:52,732
+{\an1}ALIH BAHASA:
+SAPUTR
+
+19
+00:00:52,732 --> 00:00:52,832
+{\an1}ALIH BAHASA:
+SAPUTRA
+
+20
+00:00:52,832 --> 00:00:52,932
+{\an1}ALIH BAHASA:
+SAPUTRA N
+
+21
+00:00:52,932 --> 00:00:53,032
+{\an1}ALIH BAHASA:
+SAPUTRA NA
+
+22
+00:00:53,032 --> 00:00:53,132
+{\an1}ALIH BAHASA:
+SAPUTRA NAI
+
+23
+00:00:53,132 --> 00:00:53,232
+{\an1}ALIH BAHASA:
+SAPUTRA NAIN
+
+24
+00:00:53,232 --> 00:00:53,332
+{\an1}ALIH BAHASA:
+SAPUTRA NAING
+
+25
+00:00:53,332 --> 00:00:53,432
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGG
+
+26
+00:00:53,432 --> 00:00:53,532
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGO
+
+27
+00:00:53,532 --> 00:00:53,632
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOL
+
+28
+00:00:53,632 --> 00:00:53,732
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLA
+
+29
+00:00:53,732 --> 00:00:53,832
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+
+30
+00:00:53,832 --> 00:00:53,932
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+p
+
+31
+00:00:53,932 --> 00:00:54,032
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+pu
+
+32
+00:00:54,032 --> 00:00:54,132
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+pui
+
+33
+00:00:54,132 --> 00:00:54,232
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puis
+
+34
+00:00:54,232 --> 00:00:54,332
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisi
+
+35
+00:00:54,332 --> 00:00:54,432
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisis
+
+36
+00:00:54,432 --> 00:00:54,532
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisa
+
+37
+00:00:54,532 --> 00:00:54,632
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisap
+
+38
+00:00:54,632 --> 00:00:54,732
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisapu
+
+39
+00:00:54,732 --> 00:00:54,832
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaput
+
+40
+00:00:54,832 --> 00:00:54,932
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputr
+
+41
+00:00:54,932 --> 00:00:55,032
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputra
+
+42
+00:00:55,032 --> 00:00:55,132
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputran
+
+43
+00:00:55,132 --> 00:00:55,232
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputrana
+
+44
+00:00:55,232 --> 00:00:55,332
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranai
+
+45
+00:00:55,332 --> 00:00:55,432
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranain
+
+46
+00:00:55,432 --> 00:00:55,532
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranaing
+
+47
+00:00:55,532 --> 00:00:55,632
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranaingg
+
+48
+00:00:55,632 --> 00:00:55,732
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggo
+
+49
+00:00:55,732 --> 00:00:55,832
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggol
+
+50
+00:00:55,832 --> 00:00:55,932
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggola
+
+51
+00:00:55,932 --> 00:00:56,032
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan
+
+52
+00:00:56,032 --> 00:00:56,132
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.
+
+53
+00:00:56,132 --> 00:00:56,232
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.b
+
+54
+00:00:56,232 --> 00:00:56,332
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.bl
+
+55
+00:00:56,332 --> 00:00:56,432
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blo
+
+56
+00:00:56,432 --> 00:00:56,532
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blog
+
+57
+00:00:56,532 --> 00:00:56,632
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogs
+
+58
+00:00:56,632 --> 00:00:56,732
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogsp
+
+59
+00:00:56,732 --> 00:00:56,832
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspo
+
+60
+00:00:56,832 --> 00:00:56,932
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot
+
+61
+00:00:56,932 --> 00:00:57,032
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.
+
+62
+00:00:57,032 --> 00:00:57,132
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.c
+
+63
+00:00:57,132 --> 00:00:57,232
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.co
+
+64
+00:00:57,232 --> 00:00:57,732
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.com
+
+65
+00:00:57,732 --> 00:00:58,232
+{\an1}<u>ALIH BAHASA:</u>
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.com
+
+66
+00:00:58,232 --> 00:00:58,732
+{\an1}ALIH BAHASA:
+<u>SAPUTRA NAINGGOLAN</u>
+puisisaputranainggolan.blogspot.com
+
+67
+00:00:58,732 --> 00:00:59,232
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+<u>puisisaputranainggolan.blogspot.com</u>
+
+68
+00:00:59,232 --> 00:00:59,732
+{\an1}<u>ALIH BAHASA:</u>
+<u>SAPUTRA NAINGGOLAN</u>
+<u>puisisaputranainggolan.blogspot.com</u>
+
+69
+00:00:59,732 --> 00:01:09,732
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.com
+
+70
+00:01:22,251 --> 00:01:25,249
+Dewi Tripartit.
+
+71
+00:01:26,167 --> 00:01:29,916
+Pemberi buah.
+
+72
+00:01:31,459 --> 00:01:35,207
+Arahkan pandanganmu
+ke Bumi.
+
+73
+00:01:37,501 --> 00:01:40,416
+Dewi Tripartit.
+
+74
+00:01:41,376 --> 00:01:45,499
+Buatlah matahari terbit
+sekali lagi.
+
+75
+00:01:46,376 --> 00:01:48,707
+Dewi Tripartit.
+
+76
+00:01:49,584 --> 00:01:53,291
+Pemberi buah.
+
+77
+00:01:54,459 --> 00:01:57,999
+Arahkan pandanganmu
+ke Bumi.
+
+78
+00:01:58,001 --> 00:02:01,916
+Buatlah matahari terbit
+sekali lagi.
+
+79
+00:02:02,251 --> 00:02:04,957
+Dewi Tripartit.
+
+80
+00:02:05,167 --> 00:02:09,499
+Pemberi buah.
+
+81
+00:02:11,167 --> 00:02:14,992
+Arahkan pandanganmu
+ke Bumi.
+
+82
+00:02:15,001 --> 00:02:19,207
+Buatlah matahari terbit
+sekali lagi.
+
+83
+00:03:05,126 --> 00:03:07,374
+Lari!
+
+84
+00:03:09,501 --> 00:03:11,791
+Lari!
+
+85
+00:04:29,584 --> 00:04:32,207
+Remus!
+
+86
+00:04:32,417 --> 00:04:34,999
+Kakak!
+
+87
+00:04:40,709 --> 00:04:43,416
+Romulus!
+
+88
+00:04:43,792 --> 00:04:46,374
+Remus!
+
+89
+00:04:47,584 --> 00:04:49,284
+Kakak!
+
+90
+00:04:49,292 --> 00:04:52,457
+Bertahanlah!
+
+91
+00:04:58,292 --> 00:05:00,332
+Kakak!
+
+92
+00:05:20,709 --> 00:05:22,874
+Romulus!
+
+93
+00:05:54,709 --> 00:05:56,874
+Kakak!
+
+94
+00:06:05,209 --> 00:06:25,874
+RAJA PERTAMA
+
+95
+00:09:30,584 --> 00:09:33,749
+Mereka mengambil
+ternak kita.
+
+96
+00:09:34,584 --> 00:09:38,249
+Kita sudah tak punya rumah.
+
+97
+00:09:44,001 --> 00:09:46,541
+Kita sendirian.
+
+98
+00:09:47,626 --> 00:09:50,791
+Para Dewa tidak
+memperhatikan kita.
+
+99
+00:09:58,667 --> 00:10:01,037
+Makanlah.
+
+100
+00:10:03,792 --> 00:10:06,621
+Apa gunanya makan?
+
+101
+00:10:06,876 --> 00:10:10,329
+Kita kini ada di Alba.
+
+102
+00:10:10,626 --> 00:10:14,121
+Kau tak tahu apa yang
+akan terjadi besok.
+
+103
+00:10:16,917 --> 00:10:19,371
+Makanlah.
+
+104
+00:10:20,292 --> 00:10:23,537
+Karena itu belum terjadi.
+
+105
+00:13:03,501 --> 00:13:06,496
+Itu Dewa.
+
+106
+00:13:59,126 --> 00:14:01,871
+Dewi Tripartit.
+
+107
+00:14:01,876 --> 00:14:06,037
+Dewi pemberi buah.
+
+108
+00:14:07,084 --> 00:14:11,454
+Semoga api suciMu
+terus menyala untuk kami.
+
+109
+00:14:11,459 --> 00:14:16,704
+Bawa air sungai ini
+ke rahimmu...
+
+110
+00:14:16,917 --> 00:14:20,371
+...dan sisakan kehidupan
+yang Kau berikan pada kami.
+
+111
+00:14:20,667 --> 00:14:22,831
+Api...
+
+112
+00:14:22,834 --> 00:14:25,371
+...yang menghancurkan
+musuh kami,...
+
+113
+00:14:25,667 --> 00:14:30,579
+...lindungi aku dan
+orang-orangku.
+
+114
+00:14:31,501 --> 00:14:35,162
+Lihatlah penderitaanku...
+
+115
+00:14:35,167 --> 00:14:38,121
+...dan sudahilah.
+
+116
+00:14:39,459 --> 00:14:42,662
+Dan sudahilah.
+
+117
+00:18:15,876 --> 00:18:18,537
+Bawa aku.
+
+118
+00:18:21,209 --> 00:18:24,329
+Bawa aku.
+
+119
+00:19:03,876 --> 00:19:06,579
+Pukul aku.
+
+120
+00:19:11,667 --> 00:19:14,996
+Percaya padaku,
+pukul aku.
+
+121
+00:19:45,251 --> 00:19:47,787
+Lebih keras.
+
+122
+00:19:57,751 --> 00:19:59,996
+Lagi.
+
+123
+00:20:09,792 --> 00:20:11,912
+Diam.
+
+124
+00:20:16,084 --> 00:20:18,701
+Lindungi Kakakmu.
+
+125
+00:20:18,709 --> 00:20:21,704
+Selalu lindungi dia.
+
+126
+00:20:23,542 --> 00:20:27,079
+Semoga Dewa memberkatimu.
+
+127
+00:20:27,459 --> 00:20:30,873
+Ibu, tinggallah bersama kami.
+
+128
+00:20:30,959 --> 00:20:34,706
+Kumohon, Ibu./
+Cepat.
+
+129
+00:23:59,501 --> 00:24:02,540
+Kali ini Dewa
+ada di pihak kami.
+
+130
+00:24:29,626 --> 00:24:33,871
+Kakakku, Dewa bersama kita.
+
+131
+00:24:33,876 --> 00:24:38,540
+Kita tak lagi sendirian.
+
+132
+00:26:29,292 --> 00:26:34,831
+Alba akan mengirim
+ksatria besinya mengejar kita.
+
+133
+00:26:35,584 --> 00:26:38,498
+Kita tak bisa tinggal di sini.
+
+134
+00:26:38,501 --> 00:26:42,500
+Setelah dua ceruk,
+di puncak,...
+
+135
+00:26:42,501 --> 00:26:44,706
+...ada tanah tinggi.
+
+136
+00:26:44,709 --> 00:26:50,331
+Mungkin kita bisa seberangi
+sungai dari sana.
+
+137
+00:26:50,334 --> 00:26:54,540
+Tapi tak ada cara
+untuk sampai ke sana.
+
+138
+00:26:54,584 --> 00:26:57,873
+Lewat hutan.
+
+139
+00:27:00,001 --> 00:27:04,706
+Tak ada yang bisa keluar
+dari hutan itu hidup-hidup.
+
+140
+00:27:06,251 --> 00:27:09,540
+Itu tanah Velienses.
+
+141
+00:27:09,709 --> 00:27:12,078
+Hutan itu terkutuk.
+
+142
+00:27:12,084 --> 00:27:14,536
+Penuh arwah.
+
+143
+00:27:14,542 --> 00:27:17,498
+Mereka bersembunyi
+di antara pepohonan.
+
+144
+00:27:21,501 --> 00:27:24,540
+Kita tak punya pilihan.
+
+145
+00:28:13,501 --> 00:28:16,040
+Jangan diminum!
+
+146
+00:28:17,792 --> 00:28:20,706
+Jika kau ingin hidup.
+
+147
+00:28:42,167 --> 00:28:44,706
+Adik.
+
+148
+00:28:52,042 --> 00:28:56,248
+Kakak, bangun.
+
+149
+00:28:56,459 --> 00:28:59,331
+Kau takkan bisa
+membawanya.
+
+150
+00:28:59,501 --> 00:29:03,540
+Tinggalkan dia di sini,
+dia akan mati dengan tenang.
+
+151
+00:29:05,001 --> 00:29:06,869
+Kakakku masih hidup.
+
+152
+00:29:06,876 --> 00:29:11,537
+Kita tak bisa pertaruhkan nyawa
+untuk orang mati.
+
+153
+00:29:11,542 --> 00:29:15,081
+Kita bebas berkat mereka.
+
+154
+00:29:15,251 --> 00:29:18,206
+Selagi dia mampu...
+
+155
+00:29:18,209 --> 00:29:21,455
+...mereka ikut dengan kita.
+
+156
+00:29:49,001 --> 00:29:54,455
+Bukan ide baik
+membawa wanita ini.
+
+157
+00:29:56,501 --> 00:29:59,331
+Aku berjanji pada Kakakku...
+
+158
+00:29:59,334 --> 00:30:02,788
+...aku akan bawa
+api bersama kami.
+
+159
+00:30:05,751 --> 00:30:08,705
+Jalanlah duluan.
+
+160
+00:30:12,876 --> 00:30:16,038
+Ikatkan dia padaku.
+
+161
+00:30:40,459 --> 00:30:43,034
+Kita tak boleh berhenti.
+Bangun.
+
+162
+00:30:43,042 --> 00:30:45,826
+Bangun, kalian semua.
+
+163
+00:30:45,834 --> 00:30:50,242
+Kita istirahat malam ini.
+Kita lanjutkan saat fajar.
+
+164
+00:30:50,251 --> 00:30:53,166
+Apa kau tidak mengerti,
+kita umpan segar jika seperti ini?
+
+165
+00:30:53,167 --> 00:30:56,497
+Semakin cepat keluar dari
+hutan ini, semakin aman.
+
+166
+00:30:57,876 --> 00:31:01,082
+Sebaiknya jangan
+sendirian di hutan.
+
+167
+00:31:01,084 --> 00:31:04,537
+Lebih mudah bertahan hidup
+jika tetap bersama.
+
+168
+00:31:04,542 --> 00:31:07,330
+Bagaimana cara kita
+bertahan hidup?
+
+169
+00:31:09,292 --> 00:31:13,329
+Alba takkan mengikuti kita
+sampai kemari. Ini tanah Velienses.
+
+170
+00:31:13,334 --> 00:31:16,206
+Jika tetap di sini, arwah-arwah itu
+akan menangkap kita.
+
+171
+00:31:16,209 --> 00:31:18,621
+Atau Kepala Serigala
+akan menggorok leher kita.
+
+172
+00:31:18,626 --> 00:31:20,789
+Marce, duduklah!
+
+173
+00:31:20,792 --> 00:31:22,954
+Arwah-arwah takkan
+mengganggumu...
+
+174
+00:31:22,959 --> 00:31:26,247
+...jika kau tidak berisik.
+
+175
+00:31:27,501 --> 00:31:30,163
+Ini tanah Velienses.
+
+176
+00:31:30,959 --> 00:31:32,664
+Ada yang setuju denganku?
+
+177
+00:31:32,667 --> 00:31:35,747
+Ada yang setuju denganku?/
+Diamlah!
+
+178
+00:31:44,126 --> 00:31:46,455
+Kau?
+
+179
+00:31:46,459 --> 00:31:48,747
+Bagaimana denganmu?
+
+180
+00:31:49,334 --> 00:31:52,497
+Kita tak bisa
+pergi sendiri.
+
+181
+00:31:53,251 --> 00:31:55,577
+Maka matilah.
+
+182
+00:31:55,584 --> 00:31:58,626
+Matilah kalian semua.
+
+183
+00:32:29,876 --> 00:32:32,330
+Aku lapar.
+
+184
+00:32:32,542 --> 00:32:36,455
+Tetap jalan,
+kita tak boleh berhenti.
+
+185
+00:33:27,001 --> 00:33:30,538
+Kita tak punya harapan.
+
+186
+00:33:30,792 --> 00:33:33,996
+Dia sendiri yang
+memintanya.
+
+187
+00:33:34,626 --> 00:33:39,121
+Pria itu telah menyentuh
+perempuan itu. Dia terkutuk.
+
+188
+00:33:39,709 --> 00:33:43,955
+Kita tak bisa membawanya
+bersama kita.
+
+189
+00:34:57,333 --> 00:34:59,871
+Kakak?
+
+190
+00:36:16,876 --> 00:36:19,121
+Jangan sekali kali
+berani menyentuhnya.
+
+191
+00:36:19,626 --> 00:36:23,083
+Dia membawa kutukan Dewa!
+
+192
+00:36:23,084 --> 00:36:26,791
+Jika ingin tetap hidup
+kita harus korbankan dia.
+
+193
+00:36:26,792 --> 00:36:29,996
+Ini kehendak para Dewa.
+
+194
+00:36:31,292 --> 00:36:36,744
+Biarkan aku membunuhnya,
+kau akan tetap bersama kami.
+
+195
+00:36:36,751 --> 00:36:41,663
+Tak ada yang akan
+melukaimu.
+
+196
+00:36:42,917 --> 00:36:45,453
+Coba saja mendekat...
+
+197
+00:36:45,459 --> 00:36:47,871
+...kau akan mati.
+
+198
+00:36:49,501 --> 00:36:52,291
+Dengarkan aku!
+
+199
+00:36:52,292 --> 00:36:55,576
+Pria itu telah melanggar api.
+
+200
+00:36:55,584 --> 00:37:00,371
+Dewa akan membunuh kita satu
+per satu selama dia masih hidup.
+
+201
+00:37:01,292 --> 00:37:04,746
+Kita semua akan mati.
+
+202
+00:37:09,292 --> 00:37:11,788
+Bunuh dia!
+
+203
+00:37:15,959 --> 00:37:18,371
+Bunuh dia!
+
+204
+00:37:29,292 --> 00:37:32,121
+Satu langkah saja...
+
+205
+00:37:32,126 --> 00:37:36,291
+...aku bersumpah hari ini kau
+akan ada di kerajaan orang mati.
+
+206
+00:37:36,292 --> 00:37:40,913
+Maka matilah bersamanya!
+
+207
+00:38:40,042 --> 00:38:43,663
+Ingat mataku.
+
+208
+00:39:26,751 --> 00:39:29,663
+Siapa lagi yang ingin mati?
+
+209
+00:39:32,251 --> 00:39:35,080
+Siapa lagi yang ingin mati?
+
+210
+00:39:43,251 --> 00:39:45,791
+Kau!
+
+211
+00:39:47,459 --> 00:39:50,250
+Penghasut.
+
+212
+00:39:55,542 --> 00:39:58,541
+Koe arep modar?
+
+213
+00:40:33,542 --> 00:40:36,958
+Lihat wajahnya.
+
+214
+00:40:39,667 --> 00:40:42,583
+Dia adalah aku.
+
+215
+00:40:46,667 --> 00:40:49,791
+Aku adalah dia.
+
+216
+00:41:26,376 --> 00:41:29,791
+Aku akan mati...
+
+217
+00:41:31,084 --> 00:41:33,916
+...bukan?
+
+218
+00:41:37,001 --> 00:41:40,375
+Karena api.
+
+219
+00:41:45,292 --> 00:41:48,791
+Semua akan baik-baik saja.
+
+220
+00:41:49,709 --> 00:41:52,958
+Aku lapar, Remus.
+
+221
+00:41:54,959 --> 00:41:58,583
+Aku lapar dan haus.
+
+222
+00:42:12,542 --> 00:42:15,500
+Aku segera kembali.
+
+223
+00:42:53,959 --> 00:42:56,958
+Kakakku lapar.
+
+224
+00:43:00,292 --> 00:43:04,455
+Apa kau juga beranggapan
+bahwa dia dikutuk?
+
+225
+00:43:04,459 --> 00:43:08,875
+Tak ada yang tahu
+kehendak para Dewa.
+
+226
+00:43:09,501 --> 00:43:12,208
+Lindungi dia.
+
+227
+00:43:12,876 --> 00:43:16,625
+Seperti aku akan melindungimu.
+
+228
+00:43:16,876 --> 00:43:20,291
+Jauhkan dia dari mereka...
+
+229
+00:43:20,292 --> 00:43:23,208
+...selagi aku tak di sini.
+
+230
+00:43:23,376 --> 00:43:28,208
+Sebelum fajar,
+jika Dewa berkehendak,...
+
+231
+00:43:28,292 --> 00:43:30,789
+...aku akan kembali.
+
+232
+00:43:30,792 --> 00:43:35,083
+Kau tak boleh berburu
+di hutan sendirian.
+
+233
+00:44:31,459 --> 00:44:34,208
+Hentikan!
+
+234
+00:44:58,001 --> 00:45:00,833
+Adiknya takkan kembali.
+
+235
+00:45:00,876 --> 00:45:04,041
+Tefarie benar.
+
+236
+00:45:04,042 --> 00:45:06,079
+Kita tinggalkan
+wanita itu di sini.
+
+237
+00:45:06,084 --> 00:45:08,996
+Kita akan terlepas
+dari kutukan.
+
+238
+00:45:09,001 --> 00:45:12,035
+Kita lakukan...
+
+239
+00:45:12,042 --> 00:45:14,576
+...apa yang harus
+dilakukan.
+
+240
+00:45:15,751 --> 00:45:18,453
+Bagaimana jika
+Adiknya kembali?
+
+241
+00:45:18,459 --> 00:45:20,245
+Dia akan hancurkan
+tengkorak kita.
+
+242
+00:45:21,251 --> 00:45:23,951
+Sebentar lagi fajar.
+
+243
+00:45:24,292 --> 00:45:28,455
+Kita korbankan pria itu
+pada Dewa lalu pergi.
+
+244
+00:45:28,459 --> 00:45:31,868
+Kita menyelamatkan diri.
+
+245
+00:45:57,667 --> 00:46:00,451
+Kau mau apa?
+
+246
+00:46:00,709 --> 00:46:02,704
+Kita tak boleh
+saling bunuh.
+
+247
+00:46:02,709 --> 00:46:07,040
+Begitu mencapai sungai,
+kita akan bebas.
+
+248
+00:46:07,042 --> 00:46:08,659
+Dengarkan aku!
+
+249
+00:46:08,667 --> 00:46:14,160
+Pria itu telah
+melanggar api.
+
+250
+00:46:14,542 --> 00:46:17,242
+Dewa takkan
+biarkan kita hidup...
+
+251
+00:46:17,251 --> 00:46:21,500
+...selama dia ada
+di antara kita.
+
+252
+00:46:21,501 --> 00:46:25,868
+Bukankah berbahaya
+berada dekat dengan api?
+
+253
+00:46:25,917 --> 00:46:28,036
+Benar.
+
+254
+00:46:28,042 --> 00:46:32,290
+Tapi siapa yang akan
+membawa pria itu?
+
+255
+00:46:32,292 --> 00:46:36,701
+Siapa yang mau menodai diri
+dengan darah terkutuknya?
+
+256
+00:46:36,959 --> 00:46:39,287
+Kau, orang tua?
+
+257
+00:46:39,292 --> 00:46:44,121
+Kau ingin para Dewa menghukum
+kita semua sampai mati?
+
+258
+00:46:44,126 --> 00:46:49,785
+Kau mau menggendongnya
+setelah Adiknya pergi?
+
+259
+00:46:55,792 --> 00:46:57,701
+Lakukan.
+
+260
+00:47:34,834 --> 00:47:36,583
+Ayo.
+
+261
+00:47:36,584 --> 00:47:39,285
+Bergabung dengan kami.
+
+262
+00:47:39,292 --> 00:47:41,791
+Mengapa...
+
+263
+00:47:41,792 --> 00:47:44,910
+...kau menyalakan api?
+
+264
+00:47:45,084 --> 00:47:48,331
+Pria itu dikutuk
+oleh para Dewa.
+
+265
+00:47:48,334 --> 00:47:50,242
+Minggir.
+
+266
+00:47:50,251 --> 00:47:52,248
+Minggir.
+
+267
+00:47:52,251 --> 00:47:54,578
+Menyingkir dari sana.
+
+268
+00:47:54,751 --> 00:47:59,745
+Tak ada yang boleh
+menyeberangi lingkaran api suci.
+
+269
+00:47:59,751 --> 00:48:04,742
+Kesuciannya dikelilingi Bumi.
+
+270
+00:48:04,751 --> 00:48:06,457
+Minggir.
+
+271
+00:48:06,459 --> 00:48:09,870
+Menyingkirlah maka kau
+akan tetap hidup.
+
+272
+00:48:11,501 --> 00:48:13,745
+Ayo.
+
+273
+00:48:13,834 --> 00:48:16,369
+Seberangi api ini.
+
+274
+00:48:16,376 --> 00:48:21,995
+Jika kau yakin ingin
+memilih takdirmu.
+
+275
+00:48:28,334 --> 00:48:31,915
+Semoga Bumi menutupi
+makammu dengan duri, o Cai.
+
+276
+00:48:31,917 --> 00:48:35,499
+Semoga arwahmu
+haus selamanya.
+
+277
+00:48:35,501 --> 00:48:38,248
+Dan semoga Manes...
+
+278
+00:48:38,251 --> 00:48:41,788
+...tidak duduk di
+samping abumu.
+
+279
+00:48:41,792 --> 00:48:46,869
+Dan Sang Pembalas mencabik belulangmu
+yang kotor lewat anjingnya yang lapar.
+
+280
+00:48:46,876 --> 00:48:52,037
+Semoga makammu menjadi wadah
+berisi seorang berleher patah.
+
+281
+00:48:52,042 --> 00:48:56,747
+Semoga semua orang melempari
+makammu dengan bebatuan tajam...
+
+282
+00:48:56,751 --> 00:48:59,832
+...karena telah berani menghina
+dan menantang api Dewa.
+
+283
+00:48:59,834 --> 00:49:07,703
+Dan semoga kau
+selalu dikutuk.
+
+284
+00:50:04,959 --> 00:50:07,953
+Dia kembali.
+
+285
+00:50:22,084 --> 00:50:24,995
+Luar biasa.
+
+286
+00:51:36,192 --> 00:51:39,537
+Kalian, makanlah.
+
+287
+00:52:19,334 --> 00:52:24,662
+Ini jantung rusa
+terbesar di rawa.
+
+288
+00:52:30,459 --> 00:52:34,037
+<i>Rusa itu berlutut...</i>
+
+289
+00:52:35,334 --> 00:52:40,162
+<i>...di depanku sebelum mati.</i>
+
+290
+00:52:46,459 --> 00:52:50,828
+<i>Dengan jantungnya kau
+akan berlari melewati lumpur.</i>
+
+291
+00:52:51,667 --> 00:52:55,412
+<i>Kau akan memanjat
+tebing tertinggi.</i>
+
+292
+00:52:57,667 --> 00:53:02,287
+<i>Berjalan melintasi
+Tiber bersamaku.</i>
+
+293
+00:53:02,501 --> 00:53:06,074
+<i>Di sana kita akan
+membangun tempat berlindung.</i>
+
+294
+00:53:06,626 --> 00:53:12,074
+<i>Dan kita takkan lagi takut
+tidur di malam hari.</i>
+
+295
+00:53:12,876 --> 00:53:16,032
+Kakakku.
+
+296
+00:53:35,667 --> 00:53:37,771
+Kau mau apa?
+
+297
+00:53:37,876 --> 00:53:41,616
+Menyembuhkan lukanya.
+
+298
+00:53:45,667 --> 00:53:49,116
+Dia tak bermaksud
+menyakitinya.
+
+299
+00:54:53,209 --> 00:54:56,328
+Tanah ini lunak.
+
+300
+00:55:04,547 --> 00:55:08,083
+Kabut naik.
+
+301
+00:55:08,672 --> 00:55:12,583
+Tampaknya akan
+turun hujan.
+
+302
+00:55:22,922 --> 00:55:26,208
+Bersiap untuk pergi.
+
+303
+00:55:27,506 --> 00:55:31,417
+Para Dewa tampaknya
+sedang ramah pada kita.
+
+304
+00:55:34,922 --> 00:55:38,000
+Dengarkan aku.
+
+305
+00:55:39,047 --> 00:55:42,083
+Api telah melindungi
+Kakakku.
+
+306
+00:55:44,381 --> 00:55:47,458
+Dia masih hidup.
+
+307
+00:55:48,964 --> 00:55:54,458
+Aku selamat dari
+kemarahan Tiber.
+
+308
+00:55:55,214 --> 00:55:59,913
+Aku selamatkan kalian
+dari kematian di Alba.
+
+309
+00:55:59,922 --> 00:56:02,292
+Aku...
+
+310
+00:56:02,297 --> 00:56:06,792
+...memberi kalian makan.
+
+311
+00:56:08,631 --> 00:56:12,583
+Kalian tidak dikutuk.
+
+312
+00:56:12,589 --> 00:56:16,083
+Kalian tidak sendiri.
+
+313
+00:56:19,131 --> 00:56:22,543
+Kita akan lewati
+jantung rawa.
+
+314
+00:56:22,547 --> 00:56:27,292
+Jika kaum Velienses menyerang,
+kita harus tetap bersama.
+
+315
+00:56:31,922 --> 00:56:35,833
+Lihat rajamu.
+
+316
+00:56:41,756 --> 00:56:44,040
+Kalian bukan lagi
+binatang buas.
+
+317
+00:56:44,047 --> 00:56:47,792
+Kalian adalah satu.
+Kalian adalah kelompok...
+
+318
+00:56:47,797 --> 00:56:52,042
+...yang akan memiliki
+tanah sendiri.
+
+319
+00:56:53,381 --> 00:56:57,500
+Jika ada yang ingin pergi,
+lakukan sekarang.
+
+320
+00:56:58,547 --> 00:57:02,583
+Jika ada yang ingin
+menantangku lagi...
+
+321
+00:57:03,006 --> 00:57:06,250
+...lakukan sekarang.
+
+322
+00:57:09,006 --> 00:57:11,873
+Kalian yang tinggal
+dan menerimanya...
+
+323
+00:57:11,875 --> 00:57:14,538
+...akan jadi mataku
+saat aku pergi.
+
+324
+00:57:14,547 --> 00:57:16,837
+Telingaku saat aku tidur.
+
+325
+00:57:16,839 --> 00:57:21,792
+Hatiku saat aku diserang
+dalam pertempuran.
+
+326
+00:57:22,589 --> 00:57:25,129
+Kita hadirkan rasa takut.
+
+327
+00:57:25,131 --> 00:57:29,377
+Kita akan jadi teror yang membuat
+siapa pun terjaga di malam hari.
+
+328
+00:57:29,381 --> 00:57:32,123
+Kita akan bertahan...
+
+329
+00:57:32,131 --> 00:57:35,585
+...hari ini, besok,...
+
+330
+00:57:35,589 --> 00:57:40,414
+...sampai harinya dimana kita
+duduk bersama para Dewa.
+
+331
+00:57:40,589 --> 00:57:45,955
+Sampai harinya dimana kita
+duduk bersama para Dewa.
+
+332
+00:58:46,214 --> 00:58:49,247
+Kemari!
+Hadapi dia!
+
+333
+01:02:33,631 --> 01:02:36,497
+Jangan sakiti dia.
+
+334
+01:03:02,659 --> 01:03:05,789
+Kalian tak punya
+pelindung lagi.
+
+335
+01:03:06,256 --> 01:03:10,539
+Semua prajuritmu
+sudah mati.
+
+336
+01:03:11,881 --> 01:03:14,705
+Apa yang kau inginkan?
+
+337
+01:03:19,506 --> 01:03:22,789
+Mengambil tempat berlindung
+yang menjadi hakku.
+
+338
+01:03:28,547 --> 01:03:33,997
+Aku kepala desa
+di sini sekarang.
+
+339
+01:03:55,214 --> 01:03:58,330
+Bawa Kakakku ke dalam.
+
+340
+01:04:00,131 --> 01:04:03,414
+Biarkan dia beristirahat.
+
+341
+01:05:09,839 --> 01:05:14,289
+Ada sesuatu yang bukan
+manusia di dalam dirimu.
+
+342
+01:05:26,881 --> 01:05:30,205
+Apa yang kau lihat?
+
+343
+01:05:31,714 --> 01:05:39,414
+Aku melihat sesuatu seperti
+cahaya mengitarimu.
+
+344
+01:05:41,131 --> 01:05:45,247
+Kau penuh dengan tanda.
+
+345
+01:06:25,631 --> 01:06:28,789
+Dan sekarang...
+
+346
+01:06:28,797 --> 01:06:32,955
+...apa yang kau lihat?
+
+347
+01:06:34,714 --> 01:06:39,372
+Lebih dari seorang pria.
+
+348
+01:06:47,631 --> 01:06:51,580
+Hanya Dewa yang
+bisa memilikiku.
+
+349
+01:06:56,672 --> 01:06:59,789
+Apa kau Dewa?
+
+350
+01:08:03,297 --> 01:08:05,255
+Ada apa di sini?
+
+351
+01:08:05,256 --> 01:08:09,289
+Ini tarian pemujaan atas
+gugurnya para pejuang.
+
+352
+01:08:21,756 --> 01:08:24,914
+Berhenti.
+
+353
+01:08:27,256 --> 01:08:30,330
+Berikan pada raja.
+
+354
+01:09:10,714 --> 01:09:15,456
+Kau tahu tata <i>Haruspex</i>?
+(peramalan)
+
+355
+01:09:46,922 --> 01:09:54,040
+Kesetaraan adalah tatanan yang
+mengatur Surga dan Bumi.
+
+356
+01:09:54,589 --> 01:09:58,748
+Takdir Surga tertulis pada
+jeroan manusia hidup.
+
+357
+01:10:16,047 --> 01:10:23,081
+Dua bersatu menjadi satu.
+
+358
+01:10:23,797 --> 01:10:30,081
+Seperti daun dan tulangnya.
+Persaudaraan.
+
+359
+01:10:33,964 --> 01:10:36,707
+Di antara kalian...
+
+360
+01:10:36,714 --> 01:10:39,497
+...berdiri seorang raja.
+
+361
+01:10:39,506 --> 01:10:42,497
+Dia akan menemukan
+kerajaan baru.
+
+362
+01:10:42,506 --> 01:10:44,831
+Seperti dunia yang
+tak dikenal...
+
+363
+01:10:44,839 --> 01:10:49,956
+...dan takkan pernah dikenal
+selama bertahun-tahun mendatang.
+
+364
+01:10:53,547 --> 01:10:58,212
+Raja yang akan selalu diingat.
+
+365
+01:10:58,214 --> 01:11:02,123
+...bahkan setelah kematiannya,
+sebagai Dewa.
+
+366
+01:11:02,172 --> 01:11:07,296
+Sekumpulan pria akan
+patuh akan perintahnya.
+
+367
+01:11:07,297 --> 01:11:11,330
+Selalu bersama dan
+saling melindungi...
+
+368
+01:11:11,339 --> 01:11:17,015
+...setelah menjadi budak
+untuk waktu yang lama.
+
+369
+01:11:19,589 --> 01:11:25,581
+Itu adalah ramalan
+dari dunia arwah.
+
+370
+01:11:31,006 --> 01:11:32,754
+Lanjutkan.
+
+371
+01:11:32,756 --> 01:11:35,581
+Selesaikan.
+
+372
+01:11:35,714 --> 01:11:40,040
+Aku tak takut pada
+kehendak para Dewa.
+
+373
+01:11:52,964 --> 01:11:56,331
+Dari keduanya, hanya satu
+yang akan tersisa.
+
+374
+01:11:56,547 --> 01:11:59,915
+Daun akan menjauh
+dari tulangnya.
+
+375
+01:12:01,547 --> 01:12:06,540
+Cahaya hanya akan
+menyinari yang satu,...
+
+376
+01:12:06,547 --> 01:12:10,415
+...dan yang satunya akan masuk
+ke dalam kegelapan abadi.
+
+377
+01:12:11,214 --> 01:12:15,167
+Kakakku sedang dalam
+penyembuhan.
+
+378
+01:12:15,172 --> 01:12:19,331
+Dari keduanya, hanya satu
+yang akan tersisa.
+
+379
+01:12:19,756 --> 01:12:22,713
+Seorang saudara akan
+membunuh saudaranya.
+
+380
+01:12:22,714 --> 01:12:27,205
+Karena hanya lewat pertumpahan
+darah itu seorang raja akan lahir.
+
+381
+01:12:29,256 --> 01:12:32,080
+Darah saudaranya itu...
+
+382
+01:12:34,839 --> 01:12:38,955
+...akan jadi kekuatannya,...
+
+383
+01:12:39,672 --> 01:12:42,746
+...dan juga restunya.
+
+384
+01:12:42,964 --> 01:12:45,788
+Inilah kehendak para Dewa.
+
+385
+01:13:11,714 --> 01:13:14,996
+Patuhi kehendak
+para Dewa, rajaku.
+
+386
+01:13:45,506 --> 01:13:47,580
+Masuklah.
+
+387
+01:13:47,922 --> 01:13:50,746
+Jangan ragu.
+
+388
+01:14:12,047 --> 01:14:14,705
+Kau mendengarnya?
+
+389
+01:14:32,214 --> 01:14:39,038
+Kau telah menjagaku
+melewati kematianku.
+
+390
+01:14:42,006 --> 01:14:44,996
+Kau akan jadi
+raja yang hebat.
+
+391
+01:14:48,172 --> 01:14:50,788
+Jangan takut, Adik.
+
+392
+01:14:53,547 --> 01:14:58,830
+Aku akan selalu
+bersamamu.
+
+393
+01:15:31,881 --> 01:15:35,496
+Bagaimana jika
+wanita itu berbohong?
+
+394
+01:15:39,756 --> 01:15:43,793
+Tak ada yang bisa
+menentang...
+
+395
+01:15:43,797 --> 01:15:47,913
+...kehendak para Dewa.
+
+396
+01:15:53,547 --> 01:15:56,246
+Bunuh aku.
+
+397
+01:15:57,339 --> 01:16:00,205
+Bunuh aku, Adik.
+
+398
+01:16:02,922 --> 01:16:05,623
+Dia berbohong.
+
+399
+01:16:05,631 --> 01:16:10,080
+Dia hanya menghukum kita
+karena telah menculiknya.
+
+400
+01:16:10,089 --> 01:16:13,080
+Dewa berbicara melalui dia.
+
+401
+01:16:13,089 --> 01:16:17,705
+Kau tak bisa menentang
+kehendakNya.
+
+402
+01:16:20,006 --> 01:16:23,705
+Biarkan saja Dewa
+meninggalkan kita.
+
+403
+01:16:28,672 --> 01:16:33,129
+Raja! Raja! Raja!
+
+404
+01:16:33,131 --> 01:16:36,163
+Kakakku masih hidup!
+
+405
+01:16:39,297 --> 01:16:40,916
+Hentikan, Remus!
+
+406
+01:16:40,922 --> 01:16:43,826
+Kau tak mengerti?
+
+407
+01:16:44,131 --> 01:16:47,541
+Dewanya ingin melihat
+kita semua mati.
+
+408
+01:16:47,547 --> 01:16:51,076
+Lepaskan dia,
+jangan menyentuh Dewa!
+
+409
+01:17:08,881 --> 01:17:12,576
+Apa yang kau tahu
+tentang Dewa, pak tua?
+
+410
+01:17:30,131 --> 01:17:33,956
+Kumohon, Dewa,
+selamatkan kami./Diam!
+
+411
+01:17:33,964 --> 01:17:37,546
+Masa depan yang kulihat
+bukan kehendakku.
+
+412
+01:17:37,547 --> 01:17:40,584
+Suaraku adalah
+nafas para Dewa.
+
+413
+01:17:40,589 --> 01:17:43,659
+Kau hanya ingin
+membuatku bingung!
+
+414
+01:17:47,381 --> 01:17:51,951
+Patuhlah pada Dewa...
+
+415
+01:17:52,214 --> 01:17:55,169
+...maka kau akan hidup
+dalam kemuliaan.
+
+416
+01:17:55,172 --> 01:17:58,284
+Jika menentang...
+
+417
+01:17:58,506 --> 01:18:01,701
+...kau akan dihancurkan.
+
+418
+01:18:13,339 --> 01:18:16,831
+Mematuhi para Dewa...
+
+419
+01:18:16,839 --> 01:18:20,284
+...berarti membunuh Kakakku.
+
+420
+01:18:22,006 --> 01:18:26,242
+Maka akulah satu-satunya
+Dewa yang kukenal.
+
+421
+01:18:30,131 --> 01:18:35,044
+Tolong jangan tinggalkan aku
+mati perlahan, bunuh saja aku.
+
+422
+01:18:35,047 --> 01:18:38,534
+Remus!
+
+423
+01:18:50,214 --> 01:18:53,082
+Jika para Dewamu
+menyayangimu...
+
+424
+01:18:53,089 --> 01:18:57,242
+...mereka akan menyelamatkanmu
+dari laparnya binatang buas.
+
+425
+01:19:05,172 --> 01:19:08,659
+Aku adalah
+takdirku sendiri.
+
+426
+01:19:09,131 --> 01:19:11,659
+Dan kau...
+
+427
+01:19:12,547 --> 01:19:17,034
+...adalah tanda kemenanganku
+melawan para Dewa.
+
+428
+01:19:30,297 --> 01:19:33,909
+Jangan mengutukku, penyihir!
+
+429
+01:19:35,922 --> 01:19:40,701
+Aku tidak mengutukmu, Remus.
+
+430
+01:19:41,297 --> 01:19:45,867
+Aku mendoakanmu
+untuk keselamatanmu.
+
+431
+01:19:59,297 --> 01:20:01,247
+Pergi!
+
+432
+01:20:01,256 --> 01:20:03,251
+Pergilah!
+
+433
+01:20:03,256 --> 01:20:06,835
+Tak ada yang boleh
+menyentuh mayat ini!
+
+434
+01:20:08,922 --> 01:20:13,169
+Inilah yang terjadi pada
+mereka yang tidak taat.
+
+435
+01:20:25,672 --> 01:20:31,585
+Kau sudah sembuh.
+Raja menyembuhkannya!
+
+436
+01:20:40,181 --> 01:20:44,252
+Yang kulakukan
+tidak sia-sia.
+
+437
+01:20:46,547 --> 01:20:49,460
+Di mana dia?
+
+438
+01:20:53,589 --> 01:20:57,294
+Dia penyihir.
+
+439
+01:20:57,797 --> 01:21:01,627
+Di mana api suci?
+
+440
+01:21:03,089 --> 01:21:06,585
+Aku memilihmu tetap hidup.
+
+441
+01:21:16,214 --> 01:21:19,960
+Api adalah satu-satunya
+harapan kita.
+
+442
+01:21:22,089 --> 01:21:25,585
+Sekarang kita tak
+punya apa-apa.
+
+443
+01:21:29,547 --> 01:21:33,877
+Setidaknya biarkan mereka
+menguburnya dengan layak.
+
+444
+01:21:38,214 --> 01:21:40,877
+Berhenti.
+
+445
+01:21:42,047 --> 01:21:44,004
+Berhenti!
+
+446
+01:21:44,006 --> 01:21:47,335
+Tak ada yang boleh
+menyentuh mayat itu.
+
+447
+01:21:49,547 --> 01:21:52,835
+Kau harus lakukan
+apa yang kukatakan.
+
+448
+01:21:55,047 --> 01:21:58,085
+Kau kehilangan
+akal sehatmu.
+
+449
+01:21:58,089 --> 01:22:01,835
+Jangan berani mengguruiku.
+
+450
+01:22:03,381 --> 01:22:05,835
+Kau mengerti?
+
+451
+01:22:05,881 --> 01:22:09,544
+Jangan berani mengguruiku!
+
+452
+01:22:09,881 --> 01:22:14,627
+Hidup kita sudah berakhir
+saat dulu kita mematuhi Dewa.
+
+453
+01:22:15,006 --> 01:22:17,502
+Cukup!
+
+454
+01:22:17,797 --> 01:22:20,294
+Remus.
+
+455
+01:22:41,756 --> 01:22:44,835
+Kau berani?
+
+456
+01:22:44,839 --> 01:22:48,502
+Tundukkan kepalamu
+di hadapan rajamu.
+
+457
+01:23:09,589 --> 01:23:15,877
+Kalian semua,
+tundukkan kepala!
+
+458
+01:23:17,172 --> 01:23:20,627
+Lakukan yang dia katakan.
+
+459
+01:23:50,547 --> 01:23:53,794
+Apa kau mencari api, Kakak?
+
+460
+01:24:08,547 --> 01:24:11,880
+Ini api.
+
+461
+01:24:29,006 --> 01:24:32,755
+Inilah Dewamu.
+
+462
+01:24:33,772 --> 01:24:42,772
+{\move(390,288,0,288)}T
+
+463
+01:24:33,922 --> 01:24:42,922
+{\move(390,288,0,288)}R
+
+464
+01:24:34,072 --> 01:24:43,072
+{\move(390,288,0,288)}A
+
+465
+01:24:34,222 --> 01:24:43,222
+{\move(390,288,0,288)}N
+
+466
+01:24:34,372 --> 01:24:43,372
+{\move(390,288,0,288)}S
+
+467
+01:24:34,507 --> 01:24:43,507
+{\move(390,288,0,288)}L
+
+468
+01:24:34,657 --> 01:24:43,657
+{\move(390,288,0,288)}A
+
+469
+01:24:34,807 --> 01:24:43,807
+{\move(390,288,0,288)}S
+
+470
+01:24:34,907 --> 01:24:43,907
+{\move(390,288,0,288)}I
+
+471
+01:24:35,077 --> 01:24:44,077
+{\move(390,288,0,288)}O
+
+472
+01:24:35,227 --> 01:24:44,227
+{\move(390,288,0,288)}L
+
+473
+01:24:35,377 --> 01:24:44,377
+{\move(390,288,0,288)}E
+
+474
+01:24:35,527 --> 01:24:44,527
+{\move(390,288,0,288)}H
+
+475
+01:24:35,637 --> 01:24:44,637
+{\move(390,288,0,288)}:
+
+476
+01:24:35,807 --> 01:24:44,807
+{\move(390,288,0,288)}S
+
+477
+01:24:35,957 --> 01:24:44,957
+{\move(390,288,0,288)}A
+
+478
+01:24:36,107 --> 01:24:45,107
+{\move(390,288,0,288)}P
+
+479
+01:24:36,257 --> 01:24:45,257
+{\move(390,288,0,288)}U
+
+480
+01:24:36,407 --> 01:24:45,407
+{\move(390,288,0,288)}T
+
+481
+01:24:36,557 --> 01:24:45,557
+{\move(390,288,0,288)}R
+
+482
+01:24:36,707 --> 01:24:45,707
+{\move(390,288,0,288)}A
+
+483
+01:24:36,927 --> 01:24:45,927
+{\move(390,288,0,288)}N
+
+484
+01:24:37,077 --> 01:24:46,077
+{\move(390,288,0,288)}A
+
+485
+01:24:37,177 --> 01:24:46,177
+{\move(390,288,0,288)}I
+
+486
+01:24:37,277 --> 01:24:46,277
+{\move(390,288,0,288)}N
+
+487
+01:24:37,432 --> 01:24:46,432
+{\move(390,288,0,288)}G
+
+488
+01:24:37,597 --> 01:24:46,597
+{\move(390,288,0,288)}G
+
+489
+01:24:37,762 --> 01:24:46,762
+{\move(390,288,0,288)}O
+
+490
+01:24:37,912 --> 01:24:46,912
+{\move(390,288,0,288)}L
+
+491
+01:24:38,062 --> 01:24:47,062
+{\move(390,288,0,288)}A
+
+492
+01:24:38,212 --> 01:24:47,212
+{\move(390,288,0,288)}N
+
+493
+01:25:03,589 --> 01:25:06,086
+Hentikan, Remus.
+
+494
+01:25:06,089 --> 01:25:09,045
+Apa Dewa pernah berhenti...
+
+495
+01:25:09,047 --> 01:25:12,834
+...saat kita diseret sebagai
+tahanan seperti binatang?
+
+496
+01:25:12,839 --> 01:25:17,671
+Atau ketika mereka
+membuat kita saling bunuh?
+
+497
+01:25:17,756 --> 01:25:21,921
+Kekuasaan dibangun
+di atas rasa takut, Kakak.
+
+498
+01:25:24,631 --> 01:25:28,713
+Manusia takut pada Dewa.
+
+499
+01:25:30,297 --> 01:25:34,546
+Itu sebabnya para Dewa
+mengendalikan mereka.
+
+500
+01:25:37,214 --> 01:25:40,005
+Bagaimana denganmu?
+
+501
+01:25:40,089 --> 01:25:43,088
+Apa kau tak takut
+pada Dewa?
+
+502
+01:25:51,172 --> 01:25:54,296
+Lihat sekelilingmu.
+
+503
+01:25:55,089 --> 01:25:58,380
+Hanya ada kita.
+
+504
+01:25:59,964 --> 01:26:04,295
+Menurutmu siapa yang
+ditakuti para budak ini?
+
+505
+01:26:04,297 --> 01:26:08,380
+Nama siapa yang
+membuat mereka gentar?
+
+506
+01:26:08,631 --> 01:26:12,255
+Siapa yang membuat
+mereka patuh?
+
+507
+01:26:17,047 --> 01:26:20,421
+Remus adalah nama itu.
+
+508
+01:26:23,756 --> 01:26:27,921
+Aku akan jadi api.
+
+509
+01:26:28,297 --> 01:26:31,545
+Dan takkan ada Dewa...
+
+510
+01:26:31,547 --> 01:26:35,588
+...yang perlu kutakuti.
+
+511
+01:27:14,589 --> 01:27:17,755
+Kita tetap bersama.
+
+512
+01:27:19,172 --> 01:27:22,880
+Tak ada yang lebih
+penting dari ini.
+
+513
+01:27:37,922 --> 01:27:43,505
+Kau benar-benar tak ingin
+mematuhi para Dewa?
+
+514
+01:28:42,756 --> 01:28:45,463
+Siapa itu?
+
+515
+01:29:14,506 --> 01:29:17,255
+Siapa itu?
+
+516
+01:29:32,131 --> 01:29:35,130
+Siapa itu?
+
+517
+01:30:41,006 --> 01:30:44,171
+Apa yang sudah
+kulakukan?
+
+518
+01:30:44,172 --> 01:30:46,671
+Larilah.
+
+519
+01:30:47,797 --> 01:30:52,745
+Aku melihat rencana Dewa
+atas kita akan berakhir.
+
+520
+01:30:55,381 --> 01:30:59,579
+Kita semua terlibat...
+
+521
+01:30:59,797 --> 01:31:03,245
+...mau tidak mau.
+
+522
+01:31:04,172 --> 01:31:06,995
+Aku juga.
+
+523
+01:31:11,881 --> 01:31:15,954
+Kita membebaskan...
+
+524
+01:31:15,964 --> 01:31:20,120
+...si pembunuh.
+
+525
+01:31:23,506 --> 01:31:26,120
+Apa artinya?
+
+526
+01:31:28,797 --> 01:31:31,204
+Larilah.
+
+527
+01:33:13,839 --> 01:33:18,245
+Lihat kengerian yang
+diciptakan Adikmu.
+
+528
+01:33:19,922 --> 01:33:23,787
+Di mana dia?/
+Dia pergi pagi sekali.
+
+529
+01:33:47,797 --> 01:33:50,329
+Api suci telah padam.
+
+530
+01:33:53,881 --> 01:33:59,037
+Aku memperhatikannya lama
+tapi tak melihat sedikit pun api.
+
+531
+01:35:15,381 --> 01:35:19,995
+Kita kubur mereka
+dalam satu liang.
+
+532
+01:35:41,131 --> 01:35:45,079
+Tanpa pelindung,
+kita tidak lagi terlindungi.
+
+533
+01:35:45,297 --> 01:35:50,495
+Kita harus tinggalkan desa
+dan memilih kepala desa.
+
+534
+01:35:55,214 --> 01:35:58,620
+Api telah memilihmu.
+
+535
+01:36:24,339 --> 01:36:27,749
+Tiga puluh tahun
+ke depan...
+
+536
+01:36:27,756 --> 01:36:30,462
+...kau harus
+menjaga api ini,...
+
+537
+01:36:30,464 --> 01:36:33,995
+...selalu.
+
+538
+01:36:39,839 --> 01:36:43,205
+Dan harus...
+
+539
+01:36:43,214 --> 01:36:46,204
+...padam...
+
+540
+01:36:46,922 --> 01:36:50,620
+...bersamaan dengan
+nyawamu.
+
+541
+01:36:54,922 --> 01:36:57,580
+Dewa...
+
+542
+01:36:57,589 --> 01:37:05,245
+...telah memilihmu untuk
+kehormatan agung ini.
+
+543
+01:37:44,006 --> 01:37:47,249
+Sungainya sudah dekat.
+
+544
+01:37:47,256 --> 01:37:49,829
+Terus jalan.
+
+545
+01:38:02,006 --> 01:38:04,995
+Para penunggang kuda
+dari Alba.
+
+546
+01:38:06,422 --> 01:38:09,584
+Mereka akan
+menyusul Adikku.
+
+547
+01:38:11,547 --> 01:38:14,250
+Jangan pergi.
+
+548
+01:38:14,256 --> 01:38:18,875
+Tak ada yang tahu apa yang
+Dewa rancanakan untuknya.
+
+549
+01:38:19,422 --> 01:38:21,500
+Biarkan dia
+bersama takdirnya.
+
+550
+01:38:21,547 --> 01:38:23,542
+Dia telah kelewatan
+mencela Dewa.
+
+551
+01:38:23,547 --> 01:38:28,587
+Yang dia lakukan
+adalah salahku.
+
+552
+01:38:28,589 --> 01:38:31,999
+Adikmu telah membunuh
+tetua kita.
+
+553
+01:38:32,006 --> 01:38:35,875
+Dia menodai tanah kita
+dengan penistaan.
+
+554
+01:38:36,006 --> 01:38:39,500
+Tidak ada yang bisa
+mengalahkan prajurit Alba.
+
+555
+01:38:39,547 --> 01:38:42,334
+Mereka yang terkuat.
+
+556
+01:38:42,839 --> 01:38:46,917
+Kurasa sudah cukup.
+
+557
+01:38:47,797 --> 01:38:53,584
+Selama Alba masih
+kuat dan ditakuti,...
+
+558
+01:38:55,797 --> 01:38:58,959
+...takkan ada kemerdekaan.
+
+559
+01:38:59,631 --> 01:39:02,667
+Takkan ada.
+
+560
+01:39:03,464 --> 01:39:06,542
+Mereka musuh kita.
+
+561
+01:39:06,964 --> 01:39:09,709
+Saat kanak-kanak,...
+
+562
+01:39:10,422 --> 01:39:13,542
+...nasib kami sama
+seperti kalian.
+
+563
+01:39:58,047 --> 01:40:01,292
+Ada apa, tuan?
+
+564
+01:40:04,131 --> 01:40:06,667
+Apa kau tidak dengar?
+
+565
+01:40:08,131 --> 01:40:10,709
+Tidak, pak.
+
+566
+01:40:12,506 --> 01:40:15,584
+Aku tak dengar apa pun.
+
+567
+01:40:33,297 --> 01:40:36,667
+Burung nasar mendekat.
+
+568
+01:40:40,756 --> 01:40:45,959
+Segera kita akan ada
+di seberang.
+
+569
+01:41:11,797 --> 01:41:13,749
+Prajurit Alba!
+
+570
+01:41:13,756 --> 01:41:16,334
+Masuk ke air!
+
+571
+01:41:17,631 --> 01:41:21,672
+Masuk ke air!
+
+572
+01:46:42,047 --> 01:46:45,005
+Hentikan.
+
+573
+01:46:48,547 --> 01:46:51,839
+Kau juga hentikan, Kakak.
+
+574
+01:46:56,339 --> 01:46:59,422
+Dia orangku.
+
+575
+01:47:07,381 --> 01:47:11,255
+Dan mereka budakku.
+
+576
+01:47:12,214 --> 01:47:15,964
+Mereka orang
+bebas sekarang.
+
+577
+01:47:16,756 --> 01:47:19,587
+Mereka sekutu kita.
+
+578
+01:47:19,589 --> 01:47:23,047
+Kau berhutang nyawa
+pada mereka.
+
+579
+01:47:24,381 --> 01:47:27,797
+Dan kau berhutang
+nyawa padaku.
+
+580
+01:47:29,214 --> 01:47:33,005
+Aku memenangkan mereka
+dalam pertempuran.
+
+581
+01:47:33,006 --> 01:47:37,955
+Siapa yang memberimu hak membuat
+kesepakatan dengan mereka?
+
+582
+01:47:37,964 --> 01:47:39,289
+Lepaskan!
+
+583
+01:47:39,297 --> 01:47:41,332
+Turunkan senjatamu.
+
+584
+01:47:41,339 --> 01:47:43,922
+Lepaskan dia.
+
+585
+01:47:47,508 --> 01:47:50,991
+Ini tanah suci.
+
+586
+01:47:51,172 --> 01:47:55,047
+Kata siapa?
+
+587
+01:47:57,839 --> 01:48:00,045
+Kataku, Cai.
+
+588
+01:48:00,047 --> 01:48:03,464
+Aku yang membawa api.
+
+589
+01:48:07,381 --> 01:48:10,089
+Mundur.
+
+590
+01:48:11,464 --> 01:48:14,505
+Mundur.
+
+591
+01:48:36,506 --> 01:48:39,339
+Kita pergi.
+
+592
+01:49:57,922 --> 01:50:02,422
+Api itu adalah
+kejatuhan kita, Adik.
+
+593
+01:50:04,339 --> 01:50:09,422
+Kekuatan ada di
+dalam diri kita.
+
+594
+01:50:10,131 --> 01:50:13,755
+Di dalam sini.
+
+595
+01:50:18,797 --> 01:50:23,672
+Bukan pada Dewa.
+
+596
+01:50:24,631 --> 01:50:28,380
+Apa kau mengerti?
+
+597
+01:50:33,797 --> 01:50:38,922
+Jangan berani
+melewati batas ini.
+
+598
+01:50:42,047 --> 01:50:45,255
+Atau?
+
+599
+01:50:45,506 --> 01:50:48,547
+Apa yang akan
+kau lakukan?
+
+600
+01:50:55,381 --> 01:50:58,825
+Kau ingin jadi raja?
+
+601
+01:50:59,797 --> 01:51:02,492
+Ayo.
+
+602
+01:51:11,381 --> 01:51:13,825
+Keluar!
+
+603
+01:51:33,172 --> 01:51:36,617
+Lihat rajamu!
+
+604
+01:51:38,339 --> 01:51:41,159
+Seorang pengecut.
+
+605
+01:54:03,422 --> 01:54:05,795
+Adik.
+
+606
+01:54:05,797 --> 01:54:08,867
+Remus.
+
+607
+01:54:18,797 --> 01:54:22,117
+Bawa aku bersamamu.
+
+608
+01:54:30,839 --> 01:54:33,825
+Kau akan hidup.
+
+609
+01:54:40,464 --> 01:54:43,575
+Aku akan membawamu
+bersamaku.
+
+610
+01:54:52,297 --> 01:54:56,450
+Kita akan
+tetap bersama.
+
+611
+01:54:57,881 --> 01:55:02,034
+Kau akan membangun
+kota yang aman...
+
+612
+01:55:03,172 --> 01:55:06,909
+...di seberang sungai.
+
+613
+01:55:10,089 --> 01:55:13,825
+Dan makamkan
+aku di sana.
+
+614
+01:55:21,006 --> 01:55:24,159
+Rajaku.
+
+615
+01:55:32,881 --> 01:55:36,534
+Aku tidak bisa
+melihat apa pun.
+
+616
+01:55:38,547 --> 01:55:41,200
+Aku di sini.
+
+617
+01:57:18,756 --> 01:57:22,409
+Ini tanah kita, Adik.
+
+618
+01:57:39,589 --> 01:57:43,659
+Takdir yang ditetapkan
+para Dewa...
+
+619
+01:57:44,589 --> 01:57:47,867
+...sekarang digenapi.
+
+620
+01:57:49,506 --> 01:57:54,825
+Kita akan bersatu dengan mereka
+yang tak memiliki apa-apa.
+
+621
+01:57:55,547 --> 01:58:02,159
+Semua orang di sepanjang Tiber
+akan jadi bagian dari perkumpulan ini.
+
+622
+01:58:05,547 --> 01:58:08,617
+Tapi kota ini...
+
+623
+01:58:08,797 --> 01:58:14,450
+...lahir dari
+rasa sakitku...
+
+624
+01:58:16,297 --> 01:58:20,325
+...dari darah Adikku.
+
+625
+01:58:24,464 --> 01:58:27,917
+Pada malam hari jiwanya akan
+mengetuk pintu rumahmu...
+
+626
+01:58:27,922 --> 01:58:32,700
+...mengingatkanmu tentang
+harga sebuah masa depan.
+
+627
+01:58:34,839 --> 01:58:37,460
+Kumohon, para Dewa,...
+
+628
+01:58:37,464 --> 01:58:44,332
+...butakan mataku
+agar tak melihat...
+
+629
+01:58:44,339 --> 01:58:47,969
+...apa yang sudah
+direnggut oleh pedangku.
+
+630
+01:58:51,047 --> 01:58:55,635
+Aku berharap mati saja.
+
+631
+01:59:04,297 --> 01:59:09,219
+Semoga tanah yang basah oleh
+darah persaudaraan kami ini...
+
+632
+01:59:09,464 --> 01:59:11,501
+...menjadi sekeras batu.
+
+633
+01:59:11,506 --> 01:59:15,334
+Satu kata akan terukir di atasnya
+dan bergema di kepala semua orang.
+
+634
+01:59:15,339 --> 01:59:21,760
+Yang berani melintas, seranglah
+atau minta perlindungan.
+
+635
+01:59:37,250 --> 01:59:39,416
+"Gentarlah..."
+
+636
+01:59:39,917 --> 01:59:42,924
+"...karena inilah Roma."
+
+637
+02:00:29,452 --> 02:00:34,012
+TAHUN 753
+
+638
+02:00:34,012 --> 02:00:40,344
+TAHUN 753
+ROMA
+
+639
+02:00:40,445 --> 02:00:44,244
+SETELAH PEMBENTUKANNYA, ROMULUS
+MENGUMPULKAN PARA PENGKHIANAT, ORANG MISKIN...
+
+640
+02:00:44,245 --> 02:00:47,244
+...DAN PARA PEMBUNUH YANG TERBUANG DARI
+KOTA-KOTA LAIN. DIA MEMBERI MEREKA KEKUATAN...
+
+641
+02:00:47,245 --> 02:00:50,244
+...DAN KEBERANIAN DAN MENGATAKAN PADA
+MEREKA BAHWA MEREKA TAK LAGI HARUS...
+
+642
+02:00:50,245 --> 02:00:54,244
+...MENUNJUKKAN BELAS KASIHAN
+PADA SIAPA PUN.
+
+643
+02:00:54,344 --> 02:00:54,444
+{\an1}A
+
+644
+02:00:54,444 --> 02:00:54,544
+{\an1}AL
+
+645
+02:00:54,544 --> 02:00:54,644
+{\an1}ALI
+
+646
+02:00:54,644 --> 02:00:54,744
+{\an1}ALIH
+
+647
+02:00:54,744 --> 02:00:54,844
+{\an1}ALIH B
+
+648
+02:00:54,844 --> 02:00:54,944
+{\an1}ALIH BA
+
+649
+02:00:54,944 --> 02:00:55,044
+{\an1}ALIH BAH
+
+650
+02:00:55,044 --> 02:00:55,144
+{\an1}ALIH BAHA
+
+651
+02:00:55,144 --> 02:00:55,244
+{\an1}ALIH BAHAS
+
+652
+02:00:55,244 --> 02:00:55,344
+{\an1}ALIH BAHASA
+
+653
+02:00:55,344 --> 02:00:55,444
+{\an1}ALIH BAHASA:
+
+654
+02:00:55,444 --> 02:00:55,544
+{\an1}ALIH BAHASA:
+S
+
+655
+02:00:55,544 --> 02:00:55,644
+{\an1}ALIH BAHASA:
+SA
+
+656
+02:00:55,644 --> 02:00:55,744
+{\an1}ALIH BAHASA:
+SAP
+
+657
+02:00:55,744 --> 02:00:55,844
+{\an1}ALIH BAHASA:
+SAPU
+
+658
+02:00:55,844 --> 02:00:55,944
+{\an1}ALIH BAHASA:
+SAPUT
+
+659
+02:00:55,944 --> 02:00:56,044
+{\an1}ALIH BAHASA:
+SAPUTR
+
+660
+02:00:56,044 --> 02:00:56,144
+{\an1}ALIH BAHASA:
+SAPUTRA
+
+661
+02:00:56,144 --> 02:00:56,244
+{\an1}ALIH BAHASA:
+SAPUTRA N
+
+662
+02:00:56,244 --> 02:00:56,344
+{\an1}ALIH BAHASA:
+SAPUTRA NA
+
+663
+02:00:56,344 --> 02:00:56,444
+{\an1}ALIH BAHASA:
+SAPUTRA NAI
+
+664
+02:00:56,444 --> 02:00:56,544
+{\an1}ALIH BAHASA:
+SAPUTRA NAIN
+
+665
+02:00:56,544 --> 02:00:56,644
+{\an1}ALIH BAHASA:
+SAPUTRA NAING
+
+666
+02:00:56,644 --> 02:00:56,744
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGG
+
+667
+02:00:56,744 --> 02:00:56,844
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGO
+
+668
+02:00:56,844 --> 02:00:56,944
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOL
+
+669
+02:00:56,944 --> 02:00:57,044
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLA
+
+670
+02:00:57,044 --> 02:00:57,144
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+
+671
+02:00:57,144 --> 02:00:57,244
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+p
+
+672
+02:00:57,244 --> 02:00:57,344
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+pu
+
+673
+02:00:57,344 --> 02:00:57,444
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+pui
+
+674
+02:00:57,444 --> 02:00:57,544
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puis
+
+675
+02:00:57,544 --> 02:00:57,644
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisi
+
+676
+02:00:57,644 --> 02:00:57,744
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisis
+
+677
+02:00:57,744 --> 02:00:57,844
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisa
+
+678
+02:00:57,844 --> 02:00:57,944
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisap
+
+679
+02:00:57,944 --> 02:00:58,044
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisapu
+
+680
+02:00:58,044 --> 02:00:58,144
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaput
+
+681
+02:00:58,144 --> 02:00:58,244
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputr
+
+682
+02:00:58,244 --> 02:00:58,344
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputra
+
+683
+02:00:58,344 --> 02:00:58,444
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputran
+
+684
+02:00:58,444 --> 02:00:58,544
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputrana
+
+685
+02:00:58,544 --> 02:00:58,644
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranai
+
+686
+02:00:58,644 --> 02:00:58,744
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranain
+
+687
+02:00:58,744 --> 02:00:58,844
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranaing
+
+688
+02:00:58,844 --> 02:00:58,944
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranaingg
+
+689
+02:00:58,944 --> 02:00:59,044
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggo
+
+690
+02:00:59,044 --> 02:00:59,144
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggol
+
+691
+02:00:59,144 --> 02:00:59,244
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggola
+
+692
+02:00:59,244 --> 02:00:59,344
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan
+
+693
+02:00:59,344 --> 02:00:59,444
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.
+
+694
+02:00:59,444 --> 02:00:59,544
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.b
+
+695
+02:00:59,544 --> 02:00:59,644
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.bl
+
+696
+02:00:59,644 --> 02:00:59,744
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blo
+
+697
+02:00:59,744 --> 02:00:59,844
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blog
+
+698
+02:00:59,844 --> 02:00:59,944
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogs
+
+699
+02:00:59,944 --> 02:01:00,044
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogsp
+
+700
+02:01:00,044 --> 02:01:00,144
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspo
+
+701
+02:01:00,144 --> 02:01:00,244
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot
+
+702
+02:01:00,244 --> 02:01:00,344
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.
+
+703
+02:01:00,344 --> 02:01:00,444
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.c
+
+704
+02:01:00,444 --> 02:01:00,544
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.co
+
+705
+02:01:00,544 --> 02:01:01,044
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.com
+
+706
+02:01:01,044 --> 02:01:01,544
+{\an1}<u>ALIH BAHASA:</u>
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.com
+
+707
+02:01:01,544 --> 02:01:02,044
+{\an1}ALIH BAHASA:
+<u>SAPUTRA NAINGGOLAN</u>
+puisisaputranainggolan.blogspot.com
+
+708
+02:01:02,044 --> 02:01:02,544
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+<u>puisisaputranainggolan.blogspot.com</u>
+
+709
+02:01:02,544 --> 02:01:03,044
+{\an1}<u>ALIH BAHASA:</u>
+<u>SAPUTRA NAINGGOLAN</u>
+<u>puisisaputranainggolan.blogspot.com</u>
+
+710
+02:01:03,044 --> 02:01:13,044
+{\an1}ALIH BAHASA:
+SAPUTRA NAINGGOLAN
+puisisaputranainggolan.blogspot.com
+
